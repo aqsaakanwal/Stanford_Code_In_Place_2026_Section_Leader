@@ -148,34 +148,36 @@ I also conducted multiple cover sections for international students across diffe
 
 ### Students Taught From
 
-* United States
-* United Kingdom
-* Canada
-* South Korea
-* Costa Rica
-* Australia
-* Mexico
-* Sri Lanka
-* India
-* Taiwan
-* Philippines
-* Colombia
-* Peru
-* South Africa
-* Singapore
-* Hong Kong
-* Turkey
-* Argentina
-* Bolivia
-* Ecuador
-* China
-* France
+* United States 
+* United Kingdom 
+* Canada 
+* Cambodia 
+* Belgium
+* Bangladesh 
+* Mexico 
+* Spain 
+* Germany 
+* India 
+* Philippines 
+* Colombia 
+* Peru 
+* Pakistan 
+* Kazakhstan 
+* Uruguay 
+* Nepal 
+* Netherlands 
+* South Africa 
+* South Sudan 
+* Greece 
+* Turkey 
+* Argentina 
+* Bolivia 
+* Ecuador 
+* China 
+* Italy  
 * Indonesia
-* Paraguay
-* Chile
-* Ghana
-* Angola
-* Vietnam
+* Chile 
+* Ghana 
 
 ---
 
