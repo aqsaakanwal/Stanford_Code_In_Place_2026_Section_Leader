@@ -2,7 +2,7 @@
 
 Hi! I'm **Aqsa Kanwal**, a **Section Leader for Stanford University's Code in Place 2026** program.
 
-I am a **Food Science & Technology* Student passionate about teaching, mentoring, and helping beginners learn programming in an engaging and supportive environment.
+I am a **Food Science & Technology** Student passionate about teaching, mentoring, and helping beginners learn programming in an engaging and supportive environment.
 
 This repository contains my weekly section materials, Python solutions, Karel programs, and learning resources from my Stanford Code in Place 2026 teaching journey.
 
